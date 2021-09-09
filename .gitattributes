@@ -1,2 +1,0 @@
-presentation[[:space:]]slides filter=lfs diff=lfs merge=lfs -text
-datasets filter=lfs diff=lfs merge=lfs -text
